@@ -1,4 +1,4 @@
-# Smart Thermostat
+# HeatSync
 
 A Raspberry Pi–based smart thermostat built with Kivy, using a DHT22 sensor for temperature & humidity readings and an I²C Relay HAT for heating/cooling control, displayed on a **3.5" 480×320 SPI touch screen**.
 
